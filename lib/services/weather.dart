@@ -50,7 +50,7 @@ class WeatherModel {
     } else if (temp < 10) {
       return 'You\'ll need 🧣 and 🧤';
     } else {
-      return 'Bring a coat 🧥 just in case';
+      return 'Bring a coats 🧥 just in case';
     }
   }
 }
